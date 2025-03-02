@@ -33,3 +33,11 @@ Adaptive QoS Manipulation – Forces low-priority traffic to degrade performance
 Power Save (Doze) Exploitation – Keeps the client device in network limbo.
 Randomized Deauth Attacks – Prevents easy detection and adaptation.
 Fully Customizable – Users can tweak parameters for different stress testing scenarios.
+
+
+Future Improvements
+
+Dynamic AP Detection (Auto-find AP & clients for testing)
+GUI Interface for easier configuration
+Adaptive Timing (Detect recovery & auto-adjust attack intensity)
+
